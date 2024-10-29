@@ -1,0 +1,4 @@
+-rank @user | Shows your level
+-profile @user | See the profile of a mentioned user
+-setinfo <info> | Sets your info
+-invite | Invites the bot
