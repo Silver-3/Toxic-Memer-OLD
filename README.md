@@ -7,10 +7,6 @@ Toxic Memer is my own bot I made just for fun. It has lots of economy commands, 
 ## Archived
 This repo has been archived and an updated version will be at https://github.com/Silver-3/Toxic-Memer
 
-## How-To-Download
-
-Look at the middle then go right a bit then up and you see a button that says / shows [code](https://cdn.discordapp.com/attachments/860770979181887548/860811468806422548/unknown.png). Click that and it will download a .zip file. Just extract the files from that and run the "install.bat". When that is done, go to config.json and change your config there (token and prefix). Click the "run.bat" to start the bot :)
-
 ## Commands
 
 ➡ [Economy commands](https://github.com/SilverGamez/Toxic-Memer/blob/main/github/command-list/encomny-commands.txt)
@@ -32,7 +28,3 @@ Look at the middle then go right a bit then up and you see a button that says / 
     "botdev": "YOUR DISCORD ID"
 }
 ```
-
-## Problems / Errors
-
-`Toxic Memer current doesnt work to download, i will fix at some point when i get the time`
