@@ -7,6 +7,8 @@ Toxic Memer is my own bot I made just for fun. It has lots of economy commands, 
 ## Archived
 This repo has been archived and an updated version will be at https://github.com/Silver-3/Toxic-Memer
 
+THIS REPO WAS TRANSFERED FROM MY OLD GITHUB WHICH GOT FLAGGED
+
 ## Commands
 
 ➡ [Economy commands](https://github.com/Silver-3/Toxic-Memer-OLD/blob/main/github/command-list/encomny-commands.txt)
